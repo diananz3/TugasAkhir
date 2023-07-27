@@ -1,0 +1,921 @@
+﻿question,label,tag
+halo,greets,greeting
+hai,greets,greeting
+hi,greets,greeting
+selamat pagi,greets,greeting
+selamat siang,greets,greeting
+selamat sore,greets,greeting
+selamat malam,greets,greeting
+permisi ini cs pukesmas keputih?,greets,greeting
+ini benar kontaknya puskesmas keputih?,greets,greeting
+hei,greets,greeting
+halo selamat pagi,greets,greeting
+halo selamat siang,greets,greeting
+hai selamat sore,greets,greeting
+hai selamat malam,greets,greeting
+haloo,greets,greeting
+assalamualaikum,greets,greeting
+alamat Puskesmas Keputih dimana?,layanan,alamat
+Puskesmas Keputih alamatnya dimana?,layanan,alamat
+Puskesmas Keputih dmn?,layanan,alamat
+Puskesmas Keputih dimana ya?,layanan,alamat
+Alamat puskesmas dmn yaa,layanan,alamat
+alamat lengkapnya apa?,layanan,alamat
+alamatnya dimana?,layanan,alamat
+Puskesmas Keputih itu dimana ya?,layanan,alamat
+alamat lengkap puskesmas dimana?,layanan,alamat
+puskesmas keputih di sebelah mana ya,layanan,alamat
+puskesmasnya sebalah mana ya,layanan,alamat
+alamatnya mana?,layanan,alamat
+puskesmas keputih di jalan apa,layanan,alamat
+alamatnya di jalan apa nomor berapa?,layanan,alamat
+puskesmasnya apa pindah?,layanan,alamat sementara
+alamat baru puskesmas keputih?,layanan,alamat sementara
+puskesmas keputih pindah kemana,layanan,alamat sementara
+alamat yang baru dmn yaa?,layanan,alamat sementara
+puskemas pindah dimana?,layanan,alamat sementara
+alamat puskesmas yang sekarang dimana?,layanan,alamat sementara
+puskesmas keputih pindahnya kemana ya?,layanan,alamat sementara
+sekarang pindah dimana ya?,layanan,alamat sementara
+alamat sementara puskesmas dimana?,layanan,alamat sementara
+alamat Puskesmas Keputih pindah dimana?,layanan,alamat sementara
+emang puskesmasnya pindah yaa?,layanan,alamat sementara
+pindah dimana puskesmasnya?,layanan,alamat sementara
+di alamat sesuai google kok tutup ya,layanan,alamat sementara
+apa pindah?,layanan,alamat sementara
+sekarang puskesmasnya dimana?,layanan,alamat sementara
+apa masih di rusunawa?,layanan,alamat sementara
+di rusunawanya blok berapa?,layanan,alamat sementara
+alamat yang baru apa?,layanan,alamat sementara
+alamat pindahnya mana?,layanan,alamat sementara
+puskesmas sekarang di rusunawa?,layanan,alamat sementara
+pindah kemana?,layanan,alamat sementara
+di alamat yg keputih tegal kok tidak ada puskesmasnya,layanan,alamat sementara
+sekarang puskesmas pindah mana?,layanan,alamat sementara
+Pelayanan di Puskesmas Keputih mulai jam berapa?,layanan,jadwal buka
+puskesmas keputih buka 24 jam apa tidak?,layanan,jadwal buka
+hari libur buka atau gak?,layanan,jadwal buka
+jadwal buka,layanan,jadwal buka
+Puskesmas Keputih buka jam brp?,layanan,jadwal buka
+buka setiap hari apa?,layanan,jadwal buka
+buka tiap hari apa aja?,layanan,jadwal buka
+puskesmas keputih buka setiap hari gak ya,layanan,jadwal buka
+kalau tanggal merah libur apa tidak?,layanan,jadwal buka
+tgl merah puskesmas tetap buka gak,layanan,jadwal buka
+hari minggu puskesmas buka apa tidak?,layanan,jadwal buka
+hari minggu melayani pasien apa tidak?,layanan,jadwal buka
+hari minggu bisa ke puskesmas tidak yaa?,layanan,jadwal buka
+Minggu tetap buka apa tidak?,layanan,jadwal buka
+Apakah melayani pasien sampai malam?,layanan,jadwal buka
+puskesmas buka sampai malam gak?,layanan,jadwal buka
+Puskesmas bukanya jam berapa ya,layanan,jadwal buka
+Sabtu bisa ke puskesmas?,layanan,jadwal buka
+Hari sabtu buka apa tidak?,layanan,jadwal buka
+Hari jumat buka sampai jam berapa?,layanan,jadwal buka
+misal sabtu ke puskesmas bisa gak ya?,layanan,jadwal buka
+Sabtu buka sampai jam brp?,layanan,jadwal buka
+puskesmas bukak ga ya hari minggu,layanan,jadwal buka
+Pelayanan pagi jam berapa,layanan,jadwal pagi
+Pagi buka jam berapa?,layanan,jadwal pagi
+pagi jam 7 sudah buka atau belum?,layanan,jadwal pagi
+puskesmas pagi bukanya jam brp?,layanan,jadwal pagi
+pagi mulai jam berapa bukanya,layanan,jadwal pagi
+jadwal pagi,layanan,jadwal pagi
+jadwal pelayanan pagi jam berapa,layanan,jadwal pagi
+pelayanan pagi puskesmas mulainya jam berapa sampai jam berapa,layanan,jadwal pagi
+biasanya siang gitu bukanya sampai jam berapa,layanan,jadwal pagi
+jam 6 sudah buka belum ya,layanan,jadwal pagi
+jadwal buka pagi jam berapa sampai jam berapa,layanan,jadwal pagi
+paling pagi sudah buka jam berapa,layanan,jadwal pagi
+kalau jumat gitu siang sampai jam berapa ya,layanan,jadwal pagi
+Pelayanan sore jam berapa,layanan,jadwal sore
+Buka sampai jam berapa kalau sore,layanan,jadwal sore
+sore masih bisa ke puskesmas apa tidak?,layanan,jadwal sore
+sore buka sampai jam berapa?,layanan,jadwal sore
+malam masih buka gak,layanan,jadwal sore
+puskesmas buka sampai jam berapa kalau sore,layanan,jadwal sore
+sore masih buka gak,layanan,jadwal sore
+jadwal sore,layanan,jadwal sore
+malam masih bisa periksa ke puskesmas?,layanan,jadwal sore
+masih melayani pasien gak kalau malam,layanan,jadwal sore
+abis maghrib gitu masih bisa ke puskesmas buat ketemu dokter?,layanan,jadwal sore
+sore masih buka apa tidak puskesmasnya,layanan,jadwal sore
+ke puskesmas sore masih bisa?,layanan,jadwal sore
+jam sore masih bisa melayani pasien?,layanan,jadwal sore
+tutupnya sampai jam berapa biasanya,layanan,jadwal sore
+sore masih buka apa sudah tutup?,layanan,jadwal sore
+periksa ke puskesmas pas malam gak bisa ya?,layanan,jadwal sore
+ada poli apa saja di Puskesmas Keputih,layanan,poli
+Puskesmas keputih melayani apa saja,layanan,poli
+di Puskesmas Keputih ada poli apa aja yaa,layanan,poli
+ada poli apa saja,layanan,poli
+melayani apa saja,layanan,poli
+melayani apa aja di puskesmas,layanan,poli
+pelayanan di puskesmas apa saja,layanan,poli
+melayani apa aja,layanan,poli
+ada pelayanan apa saja di puskemas,layanan,poli
+melayani pemeriksaan apa saja,layanan,poli
+pelayanan pengobatan apa saja di puskesmas,layanan,poli
+menyediakan pelayanan apa saja,layanan,poli
+pelayanannya di puskesmas apa saja,layanan,poli
+melayani pengobatan apa aja,layanan,poli
+poli di puskesmas keputih apa aja,layanan,poli
+puskesmas melayani apa selain pemeriksaan umum,layanan,poli
+Apakah ada poli THT di Puskesmas Keputih?,layanan,poli THT
+Bisa periksa telinga di puskesmas gak?,layanan,poli THT
+Di puskesmas bisa bersihkan telinga?,layanan,poli THT
+Ada poli THT atau tidak di puskesmas?,layanan,poli THT
+bersihin telinga di puskesmas bisa?,layanan,poli THT
+ada poli THT gak?,layanan,poli THT
+bisa periksa THT di puskesmas?,layanan,poli THT
+gak ada THT ya di puskesmas,layanan,poli THT
+saya mau periksa telinga bisa?,layanan,poli THT
+THT di puskesmas ada?,layanan,poli THT
+saya mau konsultasi ke THT apa bisa?,layanan,poli THT
+THT ada di puskesmas keputih,layanan,poli THT
+pemeriksaan THT bisa?,layanan,poli THT
+mau cek telinga saya di puskesmas bisa?,layanan,poli THT
+Apakah ada poli gigi di Puskesmas Keputih?,layanan,poli gigi
+layanan di poli gigi apa saja?,layanan,poli gigi
+bisa periksa gigi di puskesmas?,layanan,poli gigi
+puskesmas bisa ngasih tindakan ke pasien gigi,layanan,poli gigi
+periksa gigi berlubang bisa?,layanan,poli gigi
+ada poli gigi gak di puskesmas,layanan,poli gigi
+poli gigi di puskesmas keputih ada?,layanan,poli gigi
+menerima pasien perawatan gigi?,layanan,poli gigi
+bisa perawatan gigi di puskesmas?,layanan,poli gigi
+ada layanan gigi dan mulut gak ya?,layanan,poli gigi
+melayani pemeriksaan gigi apa tidak?,layanan,poli gigi
+ada poli gigi kan di puskesmas?,layanan,poli gigi
+poli gigi melayani apa aja di puskesmas keputih,layanan,poli gigi
+pelayanan gigi dan mulut ada di puskesmas keputih?,layanan,poli gigi
+ada praktik dokter gigi kan disana?,layanan,poli gigi
+dokter gigi di puskesmas ada kan?,layanan,poli gigi
+mau periksa gigi di puskesmas bisa?,layanan,poli gigi
+bisa cek kesehatan gigi?,layanan,poli gigi
+Perawatan akar bisa di poli gigi,layanan,poli gigi
+saya punya abses gigi bisa tidak mengobatinya di poli gigi,layanan,poli gigi
+bisa menangani perawatan gusi bengkak?,layanan,poli gigi
+scalling gigi di puskesmas tuh bisa ga,layanan,scalling
+bisa bersihkan karang gigi?,layanan,scalling
+scaling di puskesmas,layanan,scalling
+Scalling di puskesmas bisa ga ya,layanan,scalling
+kalo scaling di puskesmas itu bisa ga?,layanan,scalling
+bersihkan plak gigi di puskesmas bisa?,layanan,scalling
+bersihkan karang gigi/scalling bisa?,layanan,scalling
+puskesmas keputih melayani scalling gigi gak?,layanan,scalling
+bisa pembersihan karang gigi gak ya di puskesmas?,layanan,scalling
+bisa melayani scalling gigi?,layanan,scalling
+mau scalling di puskesmas bisa apa tidak,layanan,scalling
+saya mau bersihkan karang gigi apa bisa?,layanan,scalling
+melayani scalling gak?,layanan,scalling
+"saya mau membersihkan karang gigi, di puskesmas bisa kan?",layanan,scalling
+bisa melayani pembersihan karang gigi?,layanan,scalling
+kalau mau scalling di puskesmas apa bisa?,layanan,scalling
+ada pelayanan scalling gak di puskesmas keputih?,layanan,scalling
+pembersihan karang gigi di poli gigi bisa?,layanan,scalling
+mau nanya kalau bersihin karang gigi ke puskesmas bisa pakai BPJS ga ya,asuransi,scalling bpjs
+scalling bisa dicover bpjs apa tidak,asuransi,scalling bpjs
+scalling di puskesmas pakai BPJS bisa?,asuransi,scalling bpjs
+bersihin karang gigi bisa pakai BPJS,asuransi,scalling bpjs
+scalling bisa full dicover bpjs apa tidak,asuransi,scalling bpjs
+scalling di puskesmas bisa gratis pakai bpjs?,asuransi,scalling bpjs
+apa bisa pakai bpjs untuk scalling?,asuransi,scalling bpjs
+scalling pakai BPJS boleh?,asuransi,scalling bpjs
+mau scalling tapi BPJS luar kota bisa dipakai gak?,asuransi,scalling bpjs
+pembersihan karang gigi boleh pakai BPJS?,asuransi,scalling bpjs
+mau bersihkan karang gigi pakai BPJS bisa ya?,asuransi,scalling bpjs
+scalling dicover BPJS apa tidak?,asuransi,scalling bpjs
+bisa scalling pakai bpjs,asuransi,scalling bpjs
+kalau mau scalling pakai bpjs bisa di puskesmas?,asuransi,scalling bpjs
+pembersihan karang gigi dicover bpjs tidak?,asuransi,scalling bpjs
+pakai bpjs buat scalling bisa tidak ya?,asuransi,scalling bpjs
+scalling di poli gigi puskesmas bayar berapa,biaya,tarif scalling
+kalau gak ada bpjs bersihin karang gigi berapa,biaya,tarif scalling
+tarif scalling gigi di puskesmas berapa,biaya,tarif scalling
+bersihkan karang gigi biayanya berapa,biaya,tarif scalling
+berapa harga bersihkan karang gigi di puskesmas,biaya,tarif scalling
+berapa tarif pembersihan karang gigi,biaya,tarif scalling
+scalling kena biaya berapa di puskesmas keputih,biaya,tarif scalling
+scalling di puskesmas harganya berapa,biaya,tarif scalling
+biaya pembersihan karang gigi berapa harganya,biaya,tarif scalling
+scalling bayarnya berapa?,biaya,tarif scalling
+tarif scalling per regio berapa kalau di puskesmas,biaya,tarif scalling
+tarif buat pembersihan gigi berapa,biaya,tarif scalling
+kalau mau scalling bayarnya kisaran berapa,biaya,tarif scalling
+bisanya scalling bayar berapa ya?,biaya,tarif scalling
+bersihkan karang gigi harganya berapa,biaya,tarif scalling
+harga scalling berapa?,biaya,tarif scalling
+Bisa cabut gigi di puskesmas?,layanan,cabut gigi
+cabut gigi bisa?,layanan,cabut gigi
+melayani cabut gigi gak di poli gigi,layanan,cabut gigi
+di poli gigi puskesmas bisa cabut gigi?,layanan,cabut gigi
+klo mau cabut gigi tu di puskesmas bisa gak ya?,layanan,cabut gigi
+bisa cabut gigi bungsu?,layanan,cabut gigi
+di puskesmas melayani cabut gigi apa tidak?,layanan,cabut gigi
+cabut gigi di puskesmas bisa kan ya,layanan,cabut gigi
+cabut gigi gingsul bisa gak ya?,layanan,cabut gigi
+mau cabut gigi bungsu di puskesmas apakah bisa,layanan,cabut gigi
+cabut gigi yang miring gitu bisa?,layanan,cabut gigi
+cabut gigi permanen bisa?,layanan,cabut gigi
+melayani pencabutan gigi?,layanan,cabut gigi
+gigi bungsu bisa dicabut di puskesmas?,layanan,cabut gigi
+Cabut gigi yang paling belakang itu bisa gak,layanan,cabut gigi
+apa Cuma bisa cabut gigi sulung aja,layanan,cabut gigi
+melayani pencabutan gigi bungsu?,layanan,cabut gigi
+saya mau cabut gigi bisa apa tidak ya?,layanan,cabut gigi
+mau nanya kalo cabut gigi pake bpjs bisa ga ya di puskesmas?,asuransi,cabut gigi bpjs
+Cabut gigi bisa pakai bpjs kan?,asuransi,cabut gigi bpjs
+kalau cabut gigi bisa gratis pakai bpjs apa tidak?,asuransi,cabut gigi bpjs
+melayani cabut gigi pasien bpjs apa tidak?,asuransi,cabut gigi bpjs
+cabut gigi bisa ditanggung BPJS?,asuransi,cabut gigi bpjs
+cabut gigi di puskesmas bisa pakai bpjs kan ya,asuransi,cabut gigi bpjs
+pencabutan gigi dicover bpjs tidak?,asuransi,cabut gigi bpjs
+bisa cabut gigi pakai bpjs?,asuransi,cabut gigi bpjs
+terima pelayanan cabut gigi buat pasien bpjs kan?,asuransi,cabut gigi bpjs
+Boleh pakai BPJS buat cabut gigi?,asuransi,cabut gigi bpjs
+pencabutan gigi di puskesmas bisa pakai BPJS?,asuransi,cabut gigi bpjs
+cabut gigi di puskesmas boleh pakai BPJS?,asuransi,cabut gigi bpjs
+menerima pembayaran pakai bpjs buat cabut gigi?,asuransi,cabut gigi bpjs
+mau cabut gigi di puskesmas biayanya berapa,biaya,tarif cabut gigi
+cabut gigi kena tarif berapa biasanya,biaya,tarif cabut gigi
+mau cabut gigi biayanya berapa,biaya,tarif cabut gigi
+berapa tarif pencabutan gigi di poli gigi,biaya,tarif cabut gigi
+mau cabut gigi bayarnya berapa kira2,biaya,tarif cabut gigi
+cabut gigi mahal apa tidak,biaya,tarif cabut gigi
+cabut gigi di puskesmas tarifnya berapa ya,biaya,tarif cabut gigi
+mau cabut gigi kira kira harus bayar berapa,biaya,tarif cabut gigi
+Cabut satu gigi berapa ya bayarnya,biaya,tarif cabut gigi
+di puskesmas kalau cabut gigi biasanya bayar berapa?,biaya,tarif cabut gigi
+tarif cabut gigi berapa?,biaya,tarif cabut gigi
+cabut gigi permanen tarifnya berapa?,biaya,tarif cabut gigi
+pencabutan gigi di puskesmas tarifnya berapa ya,biaya,tarif cabut gigi
+harga cabut gigi berapa,biaya,tarif cabut gigi
+mau cabut gigi biasanya harganya kisaran berapa,biaya,tarif cabut gigi
+cabut gigi harus bayar berapa biasanya,biaya,tarif cabut gigi
+melayani tambal gigi berlubang apa ga di puskesmas,layanan,tambal gigi
+mau tambal gigi bisa?,layanan,tambal gigi
+tambal gigi depan bisa?,layanan,tambal gigi
+tambal gigi geraham bisa di puskesmas,layanan,tambal gigi
+mau menambal gigi di puskesmas keputih bisa?,layanan,tambal gigi
+melayani tambal gigi tidak ya,layanan,tambal gigi
+bisa melayani tambal gigi?,layanan,tambal gigi
+nambal gigi bisa kan di puskesmas keputih,layanan,tambal gigi
+apa bsa tambal gigi depan di puskesmas?,layanan,tambal gigi
+saya mau nambal gigi di puskesmas bisa kan?,layanan,tambal gigi
+nambal gigi yang bolong bisa apa gak di puskesmas?,layanan,tambal gigi
+Tambal gigi keropos di puskesmas keputih bisa apa tidak?,layanan,tambal gigi
+Melayani tambal gigi kropos kan?,layanan,tambal gigi
+Gigi geraham bolong gitu bisa tambal di poli gigi puskesmas kan?,layanan,tambal gigi
+tpi katanya klo tambal gigi itu bisa pake bpjs ya?,asuransi,tambal gigi bpjs
+di puskesmas bisa tambal gigi pake bpjs ga ya?,asuransi,tambal gigi bpjs
+tambal gigi bisa pakai BPJS?,asuransi,tambal gigi bpjs
+biaya tambal gigi di puskesmas apakah dicover bpjs,asuransi,tambal gigi bpjs
+mau tambal gigi pakai bpjs,asuransi,tambal gigi bpjs
+biaya menambal gigi bisa ditanggung BPJS apa tidak yaa,asuransi,tambal gigi bpjs
+apa melayani tambal gigi untuk pasien bpjs?,asuransi,tambal gigi bpjs
+tambal gigi boleh pakai BPJS?,asuransi,tambal gigi bpjs
+BPJS bisa dipakai buat tambal gigi,asuransi,tambal gigi bpjs
+dicover BPJS nggak kalo tambal gigi di puskesmas keputih,asuransi,tambal gigi bpjs
+saya mau tambal gigi tapi pembayaran pakai bpjs apa bisa full gratis?,asuransi,tambal gigi bpjs
+kalau tambal gigi pakai bpjs bisa full gratis gak,asuransi,tambal gigi bpjs
+Tambal gigi bisa ditanggung BPJS?,asuransi,tambal gigi bpjs
+mau tambal gigi tapi pakai bpjs apa boleh?,asuransi,tambal gigi bpjs
+Tambal gigi yg bolong gitu bayarnya berapa,biaya,tarif tambal gigi
+Penambalan gigi tarifnya berapa,biaya,tarif tambal gigi
+Biaya tambal gigi di puskesmas berapa yaa,biaya,tarif tambal gigi
+Nambal gigi berlubang bayarnya kisaran berapa?,biaya,tarif tambal gigi
+Tambal gigi keropos tarifnya berapa,biaya,tarif tambal gigi
+Bayar berapa kira-kira klo mau tambal satu gigi?,biaya,tarif tambal gigi
+Biaya buat tambal gigi permanen berapa yaa,biaya,tarif tambal gigi
+Tarif buat tambal gigi berapa?,biaya,tarif tambal gigi
+tambal gigi di poli gigi puskesmas dikenai biaya berapa,biaya,tarif tambal gigi
+Tambal gigi geraham gitu biasanya bayarnya berapa,biaya,tarif tambal gigi
+Tambal gigi biayanya berapa buat 1 gigi?,biaya,tarif tambal gigi
+Tambal gigi harganya berapa ya kalo di puskesmas?,biaya,tarif tambal gigi
+Penambalan gigi berlubang tarifnya berapa di puskesmas?,biaya,tarif tambal gigi
+Tambal gigi permanen biayanya brp di puskesmas keputih,biaya,tarif tambal gigi
+Biaya tambal gigi kisaran berapa ya?,biaya,tarif tambal gigi
+poli gigi puskesmas melayani pasang behel apa gak ya,layanan,behel
+pasang kawat gigi bisa gak,layanan,behel
+di puskesmas bisa pasang behel atau engga?,layanan,behel
+apa bisa pasang behel di puskesmas,layanan,behel
+melayani pasang behel atau tidak,layanan,behel
+klo mau pasang behel di puskesmas bisa apa gak?,layanan,behel
+melayani pasang kawat gigi?,layanan,behel
+dokter gigi di puskesmas bisa pasang behel gak,layanan,behel
+gigi saya tidak rapi kalau ke dokter gigi di puskesmas minta pasang kawat gigi bisa tidak?,layanan,behel
+melayani pemasangan behel?,layanan,behel
+di poli gigi puskesmas keputih bisa pasang behel,layanan,behel
+ada pelayanan buat pasang kawat gigi/behel gak,layanan,behel
+bisa masang behel di puskesmas?,layanan,behel
+Apakah bisa konsultasi dengan psikolog di Puskesmas Keputih?,layanan,konseling
+apa bisa konseling di Puskesmas Keputih,layanan,konseling
+mau konsul ke psikolog bisa,layanan,konseling
+saya mau konsultasi dengan psikolog di puskesmas apa bisa,layanan,konseling
+melayani konsultasi kesehatan mental gak ya di puskesmas,layanan,konseling
+saya mau konsul sama psikolog tentang mental health,layanan,konseling
+ada praktek psikolog gak di puskesmas,layanan,konseling
+klo konsul tentang mental health di puskesmas gitu apa bisa,layanan,konseling
+mau konsul sama ahli jiwa di puskesmas ada?,layanan,konseling
+mau konsultasi dengan psikolog apa bisa,layanan,konseling
+ada psikolog tidak ya di puskesmas saya mau konsultasi,layanan,konseling
+konseling di puskesmas keputih bisa,layanan,konseling
+di puskesmas bisa konsul sama psikolog gitu gak?,layanan,konseling
+apa ada psikolog di puskesmas keputih,layanan,konseling
+ke psikolog bisa pake bpjs gak ya?,asuransi,konseling bpjs
+biaya ke psikolog bisa dicover bpjs tidak?,asuransi,konseling bpjs
+pakai BPJS buat ke psikolog gitu bisa gak ya,asuransi,konseling bpjs
+konsultasi mental health ke psikolog boleh pakai bpjs,asuransi,konseling bpjs
+mau konsultasi dengan psikolog pakai bpjs,asuransi,konseling bpjs
+menerima konsultasi psikologi pasien BPJS ngga?,asuransi,konseling bpjs
+saya mau ketemu psikolog pembayarannya bisa dicover bpjs apa tidak?,asuransi,konseling bpjs
+ke psikolog pakai bpjs bisa kan?,asuransi,konseling bpjs
+melayani konseling ke psikolog pakai bpjs?,asuransi,konseling bpjs
+saya mau konsul ke psikolog bisa pakai bpjs?,asuransi,konseling bpjs
+bpjs saya bukan puskesmas keputih apa tetep bisa dipakai buat konsul ke psikolog,asuransi,konseling bpjs
+kalau Cuma mau konsul sama psikolog gitu boleh pakai bpjs?,asuransi,konseling bpjs
+apa bisa pakai bpjs untuk konsultasi dengan psikolog?,asuransi,konseling bpjs
+konsultasi buat kesehatan mental bayar berapa,biaya,tarif konseling
+konsul sama psikolog bayarnya berapa,biaya,tarif konseling
+konsultasi sama ahli jiwa di puskesmas bayarnya kisaran berapa,biaya,tarif konseling
+sekali konsul kena tarif berapa ya di ahli jiwa,biaya,tarif konseling
+konsultasi sama psikolog tarifnya berapa sekali pertemuan,biaya,tarif konseling
+sekali pertemuan sama psikolog bayarnya berapa,biaya,tarif konseling
+mau konsultasi kesehatan mental sama psikolog harus bayar berapa,biaya,tarif konseling
+konsul sama psikolog tarifnya berapa di puskesmas,biaya,tarif konseling
+konsultasi mental health bayarnya berapa sekali pertemuan,biaya,tarif konseling
+boleh minta info tarif konsultasi psikologi,biaya,tarif konseling
+tarif konsultasi jiwa berapa ya,biaya,tarif konseling
+jadwal posyandu setiap hari apa?,layanan,posyandu
+jadwal posyandu balita kapan?,layanan,posyandu
+posyandu tiap hari apa,layanan,posyandu
+posyandu di medokan semampir kapan?,layanan,posyandu
+jadwal posyandu berubah ubah yaa?,layanan,posyandu
+imunisasi balita kapan?,layanan,posyandu
+posyandu buat balita setiap hari apa ya,layanan,posyandu
+posyandu dari puskesmas itu jadwalnya kapan aja ya,layanan,posyandu
+posyandu kapan,layanan,posyandu
+melayani posyandu tiap hari apa,layanan,posyandu
+posyandu yang rutin tiap bulan gitu jadwalnya tiap tanggal berapa?,layanan,posyandu
+posyandu jadwalnya tidak pasti apa gimana?,layanan,posyandu
+posyandu setiap tanggal berapa?,layanan,posyandu
+posyandu bulan ini kapan diadakan?,layanan,posyandu
+bisa pesan nomor antrian?,layanan,antrian
+bisa minta nomor buat melakukan pemeriksaan di poli anak,layanan,antrian
+bisa ambil nomor antrian disini?,layanan,antrian
+cara ambil antrian gimana,layanan,antrian
+buat daftar antrian caranya gimana,layanan,antrian
+daftar antri apa harus langsung ke puskesmas,layanan,antrian
+ambil nomor antrian caranya gmna?,layanan,antrian
+apa bisa pesen nomor antrian disini?,layanan,antrian
+cara daftar nomor antrian bagaimana,layanan,antrian
+ambil nomor antrian bisa datang langsung ke puskesmas apa tidak,layanan,antrian
+ambil antrian apa Cuma bisa lewat ehealth?,layanan,antrian
+mau berobat langsung ke puskesmas bisa kan ya gak harus lewat ehealth,layanan,antrian
+antrian bisa lewat loket langsung kan,layanan,antrian
+cara rujukan,layanan,rujukan
+bisa gak minta rujukan ke rs dari puskesmas,layanan,rujukan
+bisa minta rujukan,layanan,rujukan
+kalo mau minta rujukan prosedurnya gimana,layanan,rujukan
+mau minta rujukan ke rs bisa?,layanan,rujukan
+mau ajukan rujukan gimana caranya,layanan,rujukan
+saya mau minta rujukan buat ke rs bisa,layanan,rujukan
+minta rujukan dari puskesmas bagaimana caranya,layanan,rujukan
+bisa minta rujukan dari puskesmas,layanan,rujukan
+prosedur rujukan bagaimana,layanan,rujukan
+mau minta rujukan,layanan,rujukan
+bisa melakukan rujukan pasien,layanan,rujukan
+pasien bisa dirujuk dari puskesmas?,layanan,rujukan
+boleh minta rujukan dari puskesmas keputih,layanan,rujukan
+layanan di poli umum apa saja,layanan,poli umum
+mau medical checkup gitu bisa kan di puskesmas,layanan,poli umum
+di poli umum puskesmas keputih melayani apa aja,layanan,poli umum
+rawat luka gitu bisa di dokter umum,layanan,poli umum
+mau peraawatan luka ringan bisa?,layanan,poli umum
+pemeriksaan di poli umum melayani apa aja,layanan,poli umum
+bisa screening kesehatan jamaah haji?,layanan,poli umum
+rawat luka ke puskesmas bisa?,layanan,poli umum
+poli umum melayani apa saja?,layanan,poli umum
+bisa tindakan bedah gak di puskesmas?,layanan,poli umum
+mau konsultasi ke dokter umum bisa?,layanan,poli umum
+melayani perawatan luka habis kecelakaan gitu gak,layanan,poli umum
+bisa menangani luka bakar?,layanan,poli umum
+pembayaran di puskesmas keputih bisa qris ato harus cash?,biaya,pembayaran
+bayar di puskesmas bisa cashless gak,biaya,pembayaran
+pembayaran bisa qris kah?,biaya,pembayaran
+bayarnya apa harus cash,biaya,pembayaran
+apa di puskesmas keputih Cuma menerima pembayaran cash,biaya,pembayaran
+bayar berobat di puskesmas pakai qris bisa tidak ya?,biaya,pembayaran
+bayar berobat harus cash ya?,biaya,pembayaran
+terima pembayaran cashless gak,biaya,pembayaran
+Cuma menerima pembayaran tunai?,biaya,pembayaran
+bisa cashless?,biaya,pembayaran
+bayar pakai qris bisa gak?,biaya,pembayaran
+harus cash ya di puskesmas,biaya,pembayaran
+terima pembayaran qris apa tidak,biaya,pembayaran
+harus pembayaran tunai kalau berobat ke puskesmas?,biaya,pembayaran
+boleh pakai qris gak buat bayar?,biaya,pembayaran
+gak bisa bayar pakai qris?,biaya,pembayaran
+harus uang tunai ya pembayarannya?,biaya,pembayaran
+berapa tarif periksa/konsultasi,biaya,tarif
+tarif pemeriksaan pasien non-bpjs berapa,biaya,tarif
+tarif pengobatan untuk pasien umum berapa,biaya,tarif
+periksa gak pakai bpjs bayar brp ya,biaya,tarif
+biaya pengobatan buat pasien berapa?,biaya,tarif
+biaya pemeriksaan untuk pasien non-bpjs berapa?,biaya,tarif
+biasanya pemeriksaan biasa gitu bayarnya berapa?,biaya,tarif
+kalau gak pakai bpjs bayar berapa?,biaya,tarif
+pemeriksaan di dokter umum gitu tarifnya berapa?,biaya,tarif
+periksa biasa gitu kisaran berapa bayarnya,biaya,tarif
+pasien non-bpjs kena berapa kalo mau konsul sama dokter?,biaya,tarif
+tarif buat pasien umum berapa,biaya,tarif
+kalo periksa ke puskesmas pake bpjs itu beneran full gratis kan?,asuransi,bpjs
+pakai bpjs buat berobat bisa?,asuransi,bpjs
+BPJS kalau luar kota bisa dipakai di puskesmas keputih?,asuransi,bpjs
+faskes 1 bukan puskesmas keputih tetep bisa dipakai gak?,asuransi,bpjs
+apa bisa berobat pakai BPJS di puskesmas?,asuransi,bpjs
+periksa pakai bpjs faskes tingkat 1 harus puskesmas keputih?,asuransi,bpjs
+kalau faskes 1 bpjs saya bukan puskesmas keputih masih bisa dipakai disana?,asuransi,bpjs
+apa boleh bpjs bukan puskesmas keputih,asuransi,bpjs
+bpjs saya faskes nya luar kota berati tidak bisa dipakai disini ya?,asuransi,bpjs
+Pakai bpjs bisa?,asuransi,bpjs
+Kalau mau pakai bpjs harus faskes tingkat 1nya keputih?,asuransi,bpjs
+Melayani pasien bpjs kan?,asuransi,bpjs
+bpjs saya faskesnya bukan puskesmas keputih tetap bisa dipakai apa tidak?,asuransi,bpjs
+Mau nanya kalo ngurus surat keterangan sehat di puskesmas kita harus bawa apa aja ya?,layanan,surat sehat
+Bisa minta surat sehat dari dokter,layanan,surat sehat
+Mau minta surat sehat buat lamar pekerjaan bagaimana caranya?,layanan,surat sehat
+Bisa minta surat keterangan sehat dari dokter?,layanan,surat sehat
+Minta surat sehat gimana caranya?,layanan,surat sehat
+minta surat sehat buat persyaratan magang bisa?,layanan,surat sehat
+cara minta surat sehat gimana?,layanan,surat sehat
+di puskesmas bisa minta surat keterangan bebas narkoba,layanan,surat sehat
+di puskesmas bisa minta surat keterangan sehat,layanan,surat sehat
+klo mau minta surat sehat bagaimana?,layanan,surat sehat
+butuh surat sehat mintanya kemana ya?,layanan,surat sehat
+minta suket sehat bisa kan ya?,layanan,surat sehat
+kalo mau minta surat sehat dari dokter bayar berapa,biaya,tarif surat
+minta surat keterangan sehat gitu bayar gak,biaya,tarif surat
+buat bikin surat sehat ada tarifnya gak? Berapa?,biaya,tarif surat
+minta suket sehat dari puskesmas bayar berapa,biaya,tarif surat
+kalau minta surat keterangan sehat ada biayanya gak,biaya,tarif surat
+minta surat sehat bisa gratis gak,biaya,tarif surat
+butuh surat sehat bisa kan? Biayanya berapa?,biaya,tarif surat
+tarif pembuatan surat sehat ,biaya,tarif surat
+biaya minta surat keterangan sehat dari dokter,biaya,tarif surat
+pembuatan surat sehat ada feenya?,biaya,tarif surat
+pembuatan surat sehat biayanya berapa,biaya,tarif surat
+kalau seumpama mau cek mata minus di puskesmas bisa ga si,layanan,mata
+"periksa mata di puskesmas bisa kan yaa, caranya gimana ya?",layanan,mata
+ada layanan buat periksa mata gak di puskesmas,layanan,mata
+cek mata di puskesmas bisa tidak,layanan,mata
+apa bisa cek mata minus gitu di puskesmas,layanan,mata
+bisa periksa mata di puskesmas keputih tidak,layanan,mata
+di puskesmas ada seperti optik gitu gak,layanan,mata
+bisa periksa mata gak di puskesmas?,layanan,mata
+melayani pemeriksaan mata min gitu gak,layanan,mata
+cek kesehatan mata bisa gak,layanan,mata
+ada dokter spesialis mata tidak ya di puskesmas?,layanan,mata
+periksa mata di puskesmas keputih bisa?,layanan,mata
+apa tidak ada dokter mata di puskesmas keputih?,layanan,mata
+di puskesmas ada poli yang buat nanya permasalahan kulit wajah gitu ga sih?,layanan,spkk
+Apakah ada SpKK di Puskesmas Keputih,layanan,spkk
+ada spesialis kulit apa tidak di puskesmas,layanan,spkk
+bisa konsultasi ke dokter kulit ga di puskesmas,layanan,spkk
+ada spkk di puskesmas keputih?,layanan,spkk
+mau konsultasi kulit ke spkk bisa ke puskesmas keputih?,layanan,spkk
+ada praktek dokter kulit?,layanan,spkk
+bisa konsultasi masalah kulit wajah di puskesmas?,layanan,spkk
+ada spkk gak di puskesmas?,layanan,spkk
+konsul sama dokter kulit bisa gak ya?,layanan,spkk
+gak ada dokter kulit ya d puskesmas?,layanan,spkk
+apa tidak ada spkk di puskesmas keputih?,layanan,spkk
+konsul sama dokter spkk ada gak di puskesmas,layanan,spkk
+"saya ada masalah kulit gitu, di puskesmas ada spkk gak",layanan,spkk
+Saya mau konsul masalah kulit wajah di puskesmas bisa? Ada spkk apa tidak,layanan,spkk
+Di puskesmas ada dokter khusus spesialis kulit apa tidak,layanan,spkk
+utk pemberian vitamin A di puskesmas bisa hari apa ya?,layanan,vitamin a
+jadwal pembagian vit a kapan,layanan,vitamin a
+vitamin a buat balita diberikan kapan,layanan,vitamin a
+bisa minta vitamin a buat anak,layanan,vitamin a
+jadwal pembagian vitamin a setiap bulan apa aja,layanan,vitamin a
+jadwal pemberian vit a buat anak tiap bulan apa,layanan,vitamin a
+mau ambil vitamin a buat anak bisa langsung ke puskesmas?,layanan,vitamin a
+vitamin a balita bisa langsung diambil apa ada jadwalnya?,layanan,vitamin a
+mau minta vit a buat anak bisa?,layanan,vitamin a
+pemeriksaan calon pengantin bisa?,layanan,catin
+"Kalo bukan asli surabaya dan tidak menikah di surabaya, untuk yg laki² nya saja bisa ngurus disini ndak yaa??",layanan,catin
+mau pemeriksaan pra nikah di puskesmas bisa?,layanan,catin
+pemeriksaan pra nikah gitu apa aja pemeriksaannya,layanan,catin
+screening pra nikah apa aja ya pemeriksaannya,layanan,catin
+tes kesehatan calon pengantin bisa ke puskesmas?,layanan,catin
+mau tes kesehatan sebelum menikah apa bisa,layanan,catin
+tes kesehatan buat persyaratan menikah bisa ke puskesmas?,layanan,catin
+pemeriksaan kesehatan calon pengantin di puskesmas bisa?,layanan,catin
+screening kesehatan calon pengantin apa saja,layanan,catin
+mau konsul pra nikah bisa?,layanan,catin
+layanan catin di puskesmas apa aja,layanan,catin
+melayani tes kesehatan buat catin gitu gak,layanan,catin
+screening kesehatan pra nikah,layanan,catin
+pemeriksaan kesehatan catin,layanan,catin
+periksa kesehatan buat calon pengantin ada,layanan,catin
+cek kesehatan calon pengantin di puskesmas apakah bisa,layanan,catin
+periksa kehamilan jam segini masih bisa ya,layanan,kia
+poli kia melayani apa saja?,layanan,kia
+Bisa usg di puskesmas?,layanan,kia
+periksa buat ibu hamil bisa kan ya,layanan,kia
+mau kontrol kehamilan bisa?,layanan,kia
+melayani usg apa tidak,layanan,kia
+melayani pemeriksaan kehamilan kan ya,layanan,kia
+ada praktek dokter kandungan?,layanan,kia
+mau periksa kandungan ibu hamil ,layanan,kia
+melayani usg kehamilan ya?,layanan,kia
+mau pemeriksaan ibu hamil bisa?,layanan,kia
+kontrol kondisi kehamilan bisa ya di puskesmas?,layanan,kia
+usg di puskesmas bisa apa tidak,layanan,kia
+melayani usg kandungan?,layanan,kia
+cek kesehatan ibu hamil gitu di pelayanan apa?,layanan,kia
+usg ibu hamil biayanya berapa ya kalau di puskesmas keputih,biaya,tarif kia
+tarif buat pemeriksaan kehamilan biasanya berapa?,biaya,tarif kia
+harga buat usg kehamilan kena berapa,biaya,tarif kia
+pemeriksaan kehamilan tarifnya berapa?,biaya,tarif kia
+tarif buat usg di puskesmas biasanya berapa,biaya,tarif kia
+tarif pemeriksaan di dokter kandungan berapa,biaya,tarif kia
+periksa kandungan bayarnya berapa,biaya,tarif kia
+usg bumil tarifnya biasanya berapa,biaya,tarif kia
+pemeriksaan ibu hamil bayarnya berapa,biaya,tarif kia
+biaya persalinan gitu berapa ya di puskesmas?,biaya,tarif kia
+melayani persalinan normal kan di puskesmas? Kira kira biayanya berapa?,biaya,tarif kia
+usg kehamilah tarifnya berapa?,biaya,tarif kia
+pemeriksaan kehamilan di puskesmas bayar berapa kisarannya,biaya,tarif kia
+usg buat ibu hamil harganya berapa di puskesmas?,biaya,tarif kia
+mau usg di puskesmas tarifnya kisaran berapa?,biaya,tarif kia
+tarif pemeriksaan kehamilan biasanya berapa,biaya,tarif kia
+Bisa melayani KB apa saja?,layanan,kb
+mau suntik KB bisa gk ya di puskesmas,layanan,kb
+kalo mau konsul dulu gitu buat KB apa bisa ya?,layanan,kb
+bisa pasang KB apa aja,layanan,kb
+bisa implant KB gak?,layanan,kb
+di puskesmas melayani pemasangan KB apa saja,layanan,kb
+mau pasang KB bisa?,layanan,kb
+melayani suntik KB kan ya?,layanan,kb
+mau pasang IUD gitu bisa di puskesmas?,layanan,kb
+pasang spiral bisa di puskesmas keputih?,layanan,kb
+KB spiral ada gak ya di puskesmas?,layanan,kb
+melayani pemasangan jenis KB apa aja,layanan,kb
+mau konsultasi KB di puskesmas boleh?,layanan,kb
+mau pasang kb tapi konsul dulu gitu bisa?,layanan,kb
+mau implan kb bisa?,layanan,kb
+pasang KB di puskesmas bisa ya,layanan,kb
+puskesmas bisa suntik KB,layanan,kb
+mau cabut KB implant bisa apa tidak,layanan,kb
+melayani lepas kb IUD?,layanan,kb
+saya mau lepas KB spiral di puskesmas bisa?,layanan,kb
+bisa melayani lepas atau pasang KB gak?,layanan,kb
+melayani cabut KB implan?,layanan,kb
+pasang kb bayarnya berapa,biaya,tarif kb
+suntik kb tarifnya berapa?,biaya,tarif kb
+tarif kb,biaya,tarif kb
+mau pasang kb di puskesmas biayanya berapa,biaya,tarif kb
+pasang kb spiral harganya kisaran berapa,biaya,tarif kb
+pasang kb bisa ditanggung bpjs apa tidak,biaya,tarif kb
+suntik kb harganya kisaran berapa,biaya,tarif kb
+mau KB implan harganya berapa?,biaya,tarif kb
+pil kb harganya berapa ya?,biaya,tarif kb
+kb di puskesmas harganya kisaran ,biaya,tarif kb
+kb tarifnya berapa ya,biaya,tarif kb
+bisa lepas kb impant kira kira tarifnya berapa,biaya,tarif kb
+cabut kb IUD berapa,biaya,tarif kb
+pemasangan kb implan biayanya berapa,biaya,tarif kb
+mau ngelepas kb spiral di puskesmas bayar berapa?,biaya,tarif kb
+suntik kb gitu bayar berapa kalau di puskesmas?,biaya,tarif kb
+tarif buat pasang/lepas kb berapa di puskesmas?,biaya,tarif kb
+pelayanan pemasangan kb bayarnya kisaran berapa?,biaya,tarif kb
+Apa bisa akupuntur di puskesmas?,layanan,tradisional
+ada akupuntur ya di puskesmas,layanan,tradisional
+apa melayani akupuntur di puskesmas,layanan,tradisional
+mau terapi akupuntur bisa?,layanan,tradisional
+bisa terapi akupuntur?,layanan,tradisional
+pijat bayi gitu bisa gak ya di puskesmas?,layanan,tradisional
+mau terapi jarum akupuntur bisa di puskesmas?,layanan,tradisional
+terapi pijat wajah ada ya di puskesmas?,layanan,tradisional
+melayani akupresure wajah di puskesmas keputih?,layanan,tradisional
+ada melayani pembelian jamu herbal tidak?,layanan,tradisional
+pijat buat bayi di puskesmas bisa?,layanan,tradisional
+pijat terapi buat anak bayi ada?,layanan,tradisional
+bisa melayani akupresure ya?,layanan,tradisional
+melayani pengobatan tradisional di puskesmas?,layanan,tradisional
+Mau ke puskesmas buat minta pengobatan tradisional bisa ya,layanan,tradisional
+Melayani pijat untuk anak bayi gak di puskesmas?,layanan,tradisional
+di lab puskesmas melayani pemeriksaan apa aja?,lab,laboratorium
+di puskesmas keputih laboratoriumnya melayani pemeriksaan apa aja,lab,laboratorium
+pemeriksaan di lab puskesmas apa saja,lab,laboratorium
+lab puskesmas bisa periksa apa saja,lab,laboratorium
+pemeriksaan di laboratorium bisa?,lab,laboratorium
+cek lab bisa?,lab,laboratorium
+pemeriksaan kesehatan di laboratorium puskesmas bisa?,lab,laboratorium
+Bisa pemeriksaan apa aja di lab puskesmas keputih,lab,laboratorium
+Lab puskesmas keputih bisa melayani pemeriksaan apa aja,lab,laboratorium
+di laboratorium puskesmas bisa cek kesehatan apa saja,lab,laboratorium
+Di lab melayani pemeriksaan apa aja,lab,laboratorium
+Ada pelayanan pemeriksaan apa aja di lab puskesmas keputih,lab,laboratorium
+Bisa periksa apa aja di laboratorium,lab,laboratorium
+puskesmas keputih bisa cek lab apa saja,lab,laboratorium
+Di laboratorium bisa cek apa saja,lab,laboratorium
+kalo pengen cek ke puskesmas kita anemia atau ngga,lab,cek darah
+cek tensi darah gitu bisa ya di puskesmas? Gimana caranya?,lab,cek darah
+tes tekanan darah gitu bisa di lab puskesmas?,lab,cek darah
+pengen periksa darah rutinan bisa di puskesmas?,lab,cek darah
+cek darah buat tau tensinya bisa?,lab,cek darah
+pemeriksaan darah rutin di puskesmas keputih bisa?,lab,cek darah
+mau cek tekanan darah harus kemana?,lab,cek darah
+melayani pemeriksaan darah di lab?,lab,cek darah
+cek trombosit di laboratorium puskesmas bisa?,lab,cek darah
+cek biar tau hipertensi apa gak gitu bisa?,lab,cek darah
+cek hb,lab,cek darah
+mau cek tensi darah,lab,cek darah
+tes hb darah bisa?,lab,cek darah
+kalau mau tes kesehatan kayak tensi aja gitu bayar nggk ya di puskesmas?,biaya,tarif cek darah
+cek lab gitu bayar gak ya di puskesmas?,biaya,tarif cek darah
+tes kesehatan kyk tensi biayanya berapa ya,biaya,tarif cek darah
+tarif buat cek lab di puskesmas berapa?,biaya,tarif cek darah
+pemeriksaan hb gitu gitu bayar berapa ya kira2,biaya,tarif cek darah
+tarif buat pemeriksaan darah berapa?,biaya,tarif cek darah
+mau tes darah kyak anemia hipertensi gitu bayar berapa ya,biaya,tarif cek darah
+cek gula darah kena biaya berapa?,biaya,tarif cek darah
+cek kesehatan tensi gitu bayarnya berapa,biaya,tarif cek darah
+cek hb di lab puskesmas bayar berapa,biaya,tarif cek darah
+pemeriksaan di lab gitu bayar gak ya,biaya,tarif cek darah
+pemeriksaan darah rutin bayar apa gratis?,biaya,tarif cek darah
+"periksa cek lab kayak cek darah, diabet, kolestrol bayar gak? Kalau bayar biasanya kena berapa",biaya,tarif cek darah
+cek di laboratorium buat diabetes bayar berapa,biaya,tarif cek darah
+cek kolesterol bisa?,lab,cek kimia klinik
+mau cek gula darah di puskesmas bisa?,lab,cek kimia klinik
+"melayani pemeriksaan diabet, asam urat gitu ngga",lab,cek kimia klinik
+cek kadar gula darah di lab bisa?,lab,cek kimia klinik
+melayani pemeriksaan cek kolesterol,lab,cek kimia klinik
+bisa cek gula darah gitu gitu gak,lab,cek kimia klinik
+cek lab buat kolesterol bisa,lab,cek kimia klinik
+cek kandungan gula darah bisa ya?,lab,cek kimia klinik
+pemeriksaan asam urat di lab bisa?,lab,cek kimia klinik
+periksa di laboratorium buat cek kolesterol bisa?,lab,cek kimia klinik
+melayani pemeriksaan asam urat?,lab,cek kimia klinik
+mau cek gula bisa?,lab,cek kimia klinik
+lab buat cek gula bisa ya?,lab,cek kimia klinik
+mau cek kolestrol bisa di puskesmas?,lab,cek kimia klinik
+mau periksa kadar lemak di lab bisa?,lab,cek kimia klinik
+cek kolestrol di lab puskesmas keputih bisa?,lab,cek kimia klinik
+bisa cek gula darah stick gak?,lab,cek kimia klinik
+cek kolestrol bayar berapa?,biaya,tarif cek kimia klinik
+cek kolesterol tarifnya berapa?,biaya,tarif cek kimia klinik
+mau periksa gula darah stick bayarnya berapa,biaya,tarif cek kimia klinik
+pemeriksaan kolesterol gula darah gitu bayarnya berapa?,biaya,tarif cek kimia klinik
+cek asam urat di puskesmas tarifnya berapa,biaya,tarif cek kimia klinik
+cek glukosa berapa ya bayarnya,biaya,tarif cek kimia klinik
+bayar berapa buat pemeriksaan kolesterol?,biaya,tarif cek kimia klinik
+pemeriksaan gula darah stick harganya berapa,biaya,tarif cek kimia klinik
+mau cek kolesterol biasanya bayar berapa?,biaya,tarif cek kimia klinik
+"tarif pemeriksaan kolestrol, gula darah berapa kira kira",biaya,tarif cek kimia klinik
+tarif buat lab periksa asam urat berapa ya,biaya,tarif cek kimia klinik
+bayar berapa buat cek lab gula darah,biaya,tarif cek kimia klinik
+pemeriksaan kolestrol tarinya berapa,biaya,tarif cek kimia klinik
+tarif buat pemeriksaan lab asam urat kolesterol berapa,biaya,tarif cek kimia klinik
+bisa tes HIV gak ya di puskesmas,lab,cek hiv
+melayani pasien tes HIV tidak?,lab,cek hiv
+di lab puskesmas melayani pemeriksaan HIV?,lab,cek hiv
+tes HIV/AIDS di lab bisa?,lab,cek hiv
+cek HIV gitu bisa gak yaa,lab,cek hiv
+kalo mau tes hiv di puskesmas bisa?,lab,cek hiv
+di lab bisa cek HIV,lab,cek hiv
+cek HIV gitu di lab kan ya,lab,cek hiv
+bisa cek HIV,lab,cek hiv
+cek penyakit PMS di lab puskesmas keputih bisa?,lab,cek hiv
+Tes hiv bisa apa tidak di puskesmas keputih,lab,cek hiv
+melayani cek penyakit semacam hiv sifilis gitu gak di puskesmas?,lab,cek hiv
+bisa cek lab buat penyakit HIV?,lab,cek hiv
+tes urin buat cek kehamilan bisa di puskesmas?,lab,cek urine
+pemeriksaan tes urin di puskesmas keputih bisa?,lab,cek urine
+check urin kehamilan di puskesmas bisa,lab,cek urine
+melayani tes urine di lab,lab,cek urine
+apa bisa tes urin di lab puskesmas,lab,cek urine
+tes urin di puskesmas boleh?,lab,cek urine
+tes urine buat cek kehamilan bisa di puskesmas?,lab,cek urine
+pemeriksaan tes urine di puskesmas keputih bisa?,lab,cek urine
+di lab puskesmas melayani tes urine buat kehamilan?,lab,cek urine
+mau tes urin di laboratorium puskesmas bisa?,lab,cek urine
+melayani tes urine gak?,lab,cek urine
+tes urine di puskesmas bayar gak,biaya,tarif cek urine
+tes urin buat kehamilan gratis apa bayar,biaya,tarif cek urine
+pemeriksaan kehamilan di puskesmas bayar berapa,biaya,tarif cek urine
+tes kehamilan bayarnya berapa,biaya,tarif cek urine
+tes urin lengkap tarifnya berapa,biaya,tarif cek urine
+harga pemeriksaan urine di lab berapa ya,biaya,tarif cek urine
+cek urin di laboratorium bayar berapa kira kira,biaya,tarif cek urine
+biaya pemeriksaan urine berapa,biaya,tarif cek urine
+pemeriksaan urine di puskesmas gratis apa bayar?,biaya,tarif cek urine
+plano test bayar berapa,biaya,tarif cek urine
+Kalo mau tes golongan darah di puskesmas itu bayar atau gratis?,lab,cek goldar
+cek goldar gitu di lab puskesmas ya?,lab,cek goldar
+mau tau golongan darah kita gitu bisa dicek di lab puskesmas?,lab,cek goldar
+cek goldar bisa?,lab,cek goldar
+tes golongan darah gitu bener di lab kan ya?,lab,cek goldar
+mau cek goldar di puskesmas bisa tidak ya,lab,cek goldar
+apa melayani cek goldar?,lab,cek goldar
+melayani cek golongan darah gak?,lab,cek goldar
+bisa periksa diabetes?,layanan,diabet
+pemeriksaan diabetes atau gula darah bisa?,layanan,diabet
+Melayani pengobatan buat pasien diabet apa tidak,layanan,diabet
+di puskesmas ada poli diabet ya,layanan,diabet
+kalo pemeriksaan pasien diabetes di poli apa?,layanan,diabet
+melayani pemeriksaan pasien diabetes?,layanan,diabet
+mau konsultasi buat masalah penyakit diabet bisa?,layanan,diabet
+pemeriksaan pasien diabetes mellitus di poli diabet ya?,layanan,diabet
+buat pemeriksaan diabetes gimana?,layanan,diabet
+mau cek kesehatan pasien diabet,layanan,diabet
+kontrol pasien diabetes di puskesmas bisa ya?,layanan,diabet
+ada melayani konsul pasien diabetes?,layanan,diabet
+Bisa kontrol kesehatan lansia?,layanan,lansia
+check up buat lansia,layanan,lansia
+medical cek up lansia bisa di puskesmas,layanan,lansia
+cek kesehatan buat lansia di puskesmas?,layanan,lansia
+mau konsul kesehatan lansia di puskesmas bisa ya?,layanan,lansia
+pemeriksaan pasien lansia ada poli khususnya kan?,layanan,lansia
+mau cek kesehatan lansia bagaimana caranya?,layanan,lansia
+Checkup kesehatan lansia bisa ya di puskesmas,layanan,lansia
+medical check up buat orang lanjut usia bisa di puskesmas,layanan,lansia
+pemeriksaan kesehatan buat lansia ada di puskesmas?,layanan,lansia
+Ada pelayanan buat cek kesehatan lansia di puskesmas,layanan,lansia
+Ada pelayanan buat lansia?,layanan,lansia
+Cek kesehatan rutin buat lansia,layanan,lansia
+Apakah bisa konsultasi gizi balita?,layanan,gizi
+poli gizi di puskesmas keputih melayani apa saja?,layanan,gizi
+di poli gizi bisa konsul gizi ibu hamil?,layanan,gizi
+melayani konsultasi dengan ahli gizi di puskesmas?,layanan,gizi
+melayani konsultasi gizi bayi dan ibu menyusui?,layanan,gizi
+melayani konsultasi buat gizi balita?,layanan,gizi
+bisa bertemu dengan ahli gizi di puskesmas keputih?,layanan,gizi
+ada ahli gizinya tidak ya di puskesmas?,layanan,gizi
+mau konsul gizi bayi,layanan,gizi
+kalau mau konsultasi gizi anak di puskesmas bisa?,layanan,gizi
+JKS itu apa?,asuransi,jks
+apa itu jks?,asuransi,jks
+jks itu kyk bpjs gitu kah?,asuransi,jks
+jks itu gimana maksudnya?,asuransi,jks
+jks apaan yaa,asuransi,jks
+jks itu asuransi kesehatan semacam bpjs?,asuransi,jks
+jks tuh kayak apa ya,asuransi,jks
+jks buat apa?,asuransi,jks
+JKS yg seperti apa sih?,asuransi,jks
+"Baru tau ada JKS, apa itu?",asuransi,jks
+Bagaimana bila sudah punya BPJS Mandiri? Apakah bisa memanfaatkan program JKS ini?,asuransi,jks bpjs
+kalo sudah pakai bpjs apa harus boleh daftar jks?,asuransi,jks bpjs
+yg udah daftar bpjs bisa daftar jks?,asuransi,jks bpjs
+yg udah punya bpjs mandiri boleh daftar ke program JKS?,asuransi,jks bpjs
+klo dah ada bpjs boleh migrasi ke JKS?,asuransi,jks bpjs
+boleh daftar JKS kalo dah punya bpjs,asuransi,jks bpjs
+JKS boleh dimanfaatkan sama yang sudah punya bpjs atau tidak?,asuransi,jks bpjs
+sudah punya BPJS boleh daftar JKS?,asuransi,jks bpjs
+JKS buat yg belum punya bpjs aja ya?,asuransi,jks bpjs
+kalo mau ikut program JKS tapi sudah punya BPJS apa boleh?,asuransi,jks bpjs
+Mau mengikuti program JKS yang ditanggung pemkot surabaya itu tp sudah ada bpjs apa boleh,asuransi,jks bpjs
+Sudah punya BPJS tidak boleh ikut program JKS?,asuransi,jks bpjs
+Daftar JKS tapi sudah ada BPJS bisa apa tidak,asuransi,jks bpjs
+JKS hanya untuk yang belum ada BPJS ya?,asuransi,jks bpjs
+diperbolehkan ganti ke JKS gak dari BPJS?,asuransi,jks bpjs
+Bagaimana cara melakukan pendaftaran atau migrasi ke program JKS,asuransi,migrasi jks
+cara daftar ke program jks gimana,asuransi,migrasi jks
+migrasi dari bpjs ke jks gimana?,asuransi,migrasi jks
+gimana caranya kalo mau pakai jks tapi sudah punya bpjs,asuransi,migrasi jks
+daftar jks bagaimana,asuransi,migrasi jks
+Daftar jks harus ke puskesmas?,asuransi,migrasi jks
+mau daftar jks harus kemana ya?,asuransi,migrasi jks
+pendaftaran buat program jks caranya bagaimana,asuransi,migrasi jks
+langsung ke puskesmas buat daftar jks bisa?,asuransi,migrasi jks
+jaminan jks daftarnya gimana,asuransi,migrasi jks
+migrasi ke jks prosedurnya bagaimana?,asuransi,migrasi jks
+Mendaftar program jks kalau sudah pakai bpjs bagaimana caranya,asuransi,migrasi jks
+cara migrasi bpjs ke program jks bagaimana?,asuransi,migrasi jks
+Bagaimana skema berobat jika sakit dengan program JKS ini? Apa bisa langsung ke rumah sakit?,asuransi,skema jks
+Kalau pakai JKS alur pengobatanny beda gak sama bpjs,asuransi,skema jks
+skema pelayanan berobat buat pengguna jks bagaimana?,asuransi,skema jks
+kalau mau berobat pakai JKS prosedurnya bagaimana,asuransi,skema jks
+berobat pakai JKS alurnya bagaimana,asuransi,skema jks
+alur pelayanan buat pengguna JKS bagaimana,asuransi,skema jks
+alur pengobatan dengan JKS bagaimana ya,asuransi,skema jks
+Bagaimana alur pengobatan dengan JKS?,asuransi,skema jks
+JKS bisa digunakan buat berobat di puskesmas?,asuransi,skema jks
+mau berobat ke puskesmas pakai jks bisa?,asuransi,skema jks
+kalau mau berobat langsung ke rs pakai JKS apa boleh?,asuransi,skema jks
+puskesmas melayani pasien pengguna program JKS tidak ya?,asuransi,skema jks
+bisa melayani pasien pengguna JKS,asuransi,skema jks
+JKS berlaku di dalam kota saja atau juga di luar kota?,asuransi,berlaku jks
+JKS berlaku di luar kota gak,asuransi,berlaku jks
+JKS Cuma bisa dipakai di surabaya aja ya?,asuransi,berlaku jks
+pakai jks buat berobat di luar kota bisa apa tidak?,asuransi,berlaku jks
+Kalau lagi di luar kota boleh pakai JKS?,asuransi,berlaku jks
+mau periksa pakai jks tapi posisi lagi di luar kota sby apa bisa dipakai?,asuransi,berlaku jks
+tetep bisa dipakai ya jks di luar surabaya,asuransi,berlaku jks
+Cuma berlaku di surabaya kah program jks?,asuransi,berlaku jks
+hanya bisa dipakai buat pengobatan di kota surabaya?,asuransi,berlaku jks
+apa boleh pakai JKS di luar surabaya?,asuransi,berlaku jks
+JKS hanya bisa digunakan di surabaya?,asuransi,berlaku jks
+Boleh dipakai di luar surabaya apa gak?,asuransi,berlaku jks
+Saya ikut program jks tp mau berobat di luar kota itu bisa dipakai tidak ya?,asuransi,berlaku jks
+Berlakunya hanya buat berobat di surabaya saja,asuransi,berlaku jks
+saya lagi di luar kota terus mau berobat pakai jks bisa apa tidak,asuransi,berlaku jks
+Apa hanya berlaku di dalam kota JKS ini?,asuransi,berlaku jks
+bisa digunakan untuk berobat di luar surabaya?,asuransi,berlaku jks
+Apakah program JKS ini hanya dikhususkan bagi warga Surabaya yang kurang mampu,asuransi,sasaran jks
+program JKS Cuma buat warga surabaya saja ya?,asuransi,sasaran jks
+JKS KTP luar kota surabaya bisa?,asuransi,sasaran jks
+kalau mau daftar JKS harus ber-ktp surabaya?,asuransi,sasaran jks
+JKS hanya buat warga kurang mampu aja?,asuransi,sasaran jks
+yang bisa daftar jks Cuma warga kurang mampu aja ya?,asuransi,sasaran jks
+siapa yg boleh daftar program JKS,asuransi,sasaran jks
+semua boleh daftar JKS apa tidak?,asuransi,sasaran jks
+jks ini bisa dimanfaatkan sama siapa saja?,asuransi,sasaran jks
+jks apa khusus buat warga kurang mampu ya?,asuransi,sasaran jks
+bisa rawat inap di puskesmas keputih?,layanan,rawat inap
+melayani rawat inap di puskesmas,layanan,rawat inap
+bisa rawat inap?,layanan,rawat inap
+rawat inap persalinan bisa di puskesmas?,layanan,rawat inap
+rawat inap di puskesmas bisa?,layanan,rawat inap
+puskesmas keputih bisa rawat inap tidak ya?,layanan,rawat inap
+melayani rawat inap?,layanan,rawat inap
+puskesmas melayani rawat inap?,layanan,rawat inap
+Rawat inap di puskesmas keputih bisa atau tidak?,layanan,rawat inap
+melayani rawat inap gak,layanan,rawat inap
+Melayani rawat inap apa Cuma rawat jalan aja?,layanan,rawat inap
+Terima pasien rawat inap apa tidak di puskesmas,layanan,rawat inap
+kalau sakit minta rawat inap di puskesmas bisa?,layanan,rawat inap
+rawat inap Cuma pasien persalinan aja ya di puskesmas?,layanan,rawat inap
+ada pelayanan buat rawat inap di puskesmas keputih?,layanan,rawat inap
+Melayani buat rawat inap pasien apa tidak?,layanan,rawat inap
+di medokan semampir melayani apa saja?,layanan,pustu medokan
+puskesmas yg di medokan semampir melayani apa saja,layanan,pustu medokan
+periksa di puskesmas medokan semampir bisa?,layanan,pustu medokan
+pustu medokan semampir melayani apa aja?,layanan,pustu medokan
+pustu medokan melayani apa saja?,layanan,pustu medokan
+poskes medokan semampir melayani apa saja,layanan,pustu medokan
+konsul di medokan semampir apakah bisa?,layanan,pustu medokan
+imunisasi di poskes medokan semampir bisa?,layanan,pustu medokan
+melayani pengobatan tidak ya di medokan semampir?,layanan,pustu medokan
+bisa melakukan pemeriksaan di pustu medokan semampir?,layanan,pustu medokan
+apa bisa konsul kesehatan di poskes medokan semampir,layanan,pustu medokan
+Pustu yg di medokan semampir itu melayani apa aja,layanan,pustu medokan
+bisa ketemu dokter gak di medokan semampir,layanan,pustu medokan
+konsultasi sama bidan atau dokter di medokan semampir bisa apa tidak,layanan,pustu medokan
+pelayanan di pustu medokan apa saja,layanan,pustu medokan
+mau tanya apakah vaksin di pkm keputih setiap hari ada atau hari tertentu saja?,covid19,vaksin covid19
+kalau KTP luar Surabaya apakah bisa di vaksin booster 2?,covid19,vaksin covid19
+masih melayani vaksin covid19?,covid19,vaksin covid19
+masih bisa vaksin booster?,covid19,vaksin covid19
+Ada vaksin booster 3?,covid19,vaksin covid19
+masih bisa vaksin covid di puskesmas?,covid19,vaksin covid19
+vaksin booster masih ada?,covid19,vaksin covid19
+kalo mau vaksin booster bisa langsung ke puskesmas?,covid19,vaksin covid19
+masih bisa booster?,covid19,vaksin covid19
+vaksin covid masih?,covid19,vaksin covid19
+vaksin dosis 2 masih tersedia?,covid19,vaksin covid19
+mau vaksin corona masih ada?,covid19,vaksin covid19
+bisa vaksin covid di puskesmas?,covid19,vaksin covid19
+vaksinasi covid 19 masih tersedia,covid19,vaksin covid19
+mau vaksinasi covid di puskesmas masih bisa?,covid19,vaksin covid19
+vaksin buat korona masih ada gak?,covid19,vaksin covid19
+masih ada vaksinasi covid 19?,covid19,vaksin covid19
+vaksin covid di puskesmas masih?,covid19,vaksin covid19
+apa masih bisa vaksin booster di pukesmas?,covid19,vaksin covid19
+Apa ada vaksin anak sinovac dosis 2?,covid19,vaksin covid19 anak
+ada vaksin covid buat anak2,covid19,vaksin covid19 anak
+bisa vaksinasi covid buat anak?,covid19,vaksin covid19 anak
+vaksin booster buat anak bisa?,covid19,vaksin covid19 anak
+vaksinasi covid buat anak ada atau tidak,covid19,vaksin covid19 anak
+melayani vaksin covid buat anak?,covid19,vaksin covid19 anak
+puskesmas ada vaksinasi covid 19 buat anak?,covid19,vaksin covid19 anak
+melayani vaksin korona untuk anak2?,covid19,vaksin covid19 anak
+anak-anak perlu divaksin covid gak ya? Di puskesmas bisa?,covid19,vaksin covid19 anak
+vaksin korona buat yang dibawah 18 tahun ada?,covid19,vaksin covid19 anak
+vaksinasi covid 19 buat yg dibawah 18 tahun masih bisa?,covid19,vaksin covid19 anak
+vaksin korona untuk anak bisa di puskesmas?,covid19,vaksin covid19 anak
+vaksinasi covid19 untuk anak ada atau tidak,covid19,vaksin covid19 anak
+Puskesmas Keputih melayani tes swab?,covid19,swab
+kalau mau antigen tuh biasanya di puskesmas bisa gk ya? ,covid19,swab
+bisa tes swab covid ?,covid19,swab
+bisa antigen pasien covid 19,covid19,swab
+melayani pemeriksaan pasien covid gak?,covid19,swab
+tes covid bisa?,covid19,swab
+swab tes korona bisa?,covid19,swab
+apa melayani tes covid 19?,covid19,swab
+kalau mau tes swab covid bisa?,covid19,swab
+bisa tes antigen di puskesmas?,covid19,swab
+melayani tes swab korona?,covid19,swab
+terima kasih,greets,closing
+trimakasih,greets,closing
+trims,greets,closing
+bye,greets,closing
+ok bye,greets,closing
+makasi,greets,closing
+makasih,greets,closing
+terimakasih,greets,closing
+oke makasih ya,greets,closing
